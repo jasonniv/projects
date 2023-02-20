@@ -2,7 +2,7 @@
 
 ### Completed Projects with Udemy Course (Angela Yu's Full Stack)
 * Drum Kit (HTML & CSS)
-** Simon Says (HTML, CSS, JS)
+* Simon Says (HTML, CSS, JS)
 
 ### Capstone Project
 * Name of project
