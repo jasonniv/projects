@@ -1,0 +1,11 @@
+body{
+    background: #9DC88D !important;
+}
+.callout {
+    background-color: rgb(255, 152, 152) !important;
+    border-radius: 2em !important;
+    width: 27em !important;
+    margin-left: 2em !important;
+    margin-top: 3.5em !important;
+    
+}

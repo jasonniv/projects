@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.card{
+    
+    background: white;
+    padding: 3rem 5rem;
+    
+
+    max-width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card p{
+    padding-top: 1rem;
+    line-height: 150%;
+    
+}
+
+.edit {
+    
+    padding: 15px 25px !important;
+    text-decoration: none ;
+    cursor: pointer ;
+    
+}
+

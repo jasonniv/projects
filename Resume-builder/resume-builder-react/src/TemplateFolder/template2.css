@@ -1,0 +1,156 @@
+
+
+.template2 .page2 {
+    background: rgb(29, 29, 31) !important;
+
+    padding: 1em !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.5em !important;
+    border-radius: 20px !important;
+    color: hsl(0deg 0% 30%) !important;
+    margin-top: 3em !important;
+    margin-bottom: -3em !important;
+    width: 200vh !important;
+    margin-left: 0.5vh !important;
+    
+}
+
+.template2 .page2 .nameHeader2 {
+    margin-top: 7vh !important;
+    margin-bottom: 8vh;
+    text-align: center;
+    font-family: "Georgia", Gadget, sans-serif !important;
+    font-size: 35px !important;
+    letter-spacing: 0.8px !important;
+    word-spacing: 2px !important;
+    color: #ffffff !important;
+    font-weight: 700 !important;
+    text-decoration: none solid rgb(68, 68, 68) !important;
+    font-style: normal !important;
+    font-variant: normal !important;
+    text-transform: uppercase !important;
+}
+#userInformationMargin2 {
+    margin-top: -4vh !important;
+    margin-left: 10vh !important;
+    text-align: right !important;
+    font-family: Georgia, serif !important;
+    color: #ffffff !important;
+}
+#userInformation2 {
+    text-align: right !important;
+    font-family: Georgia, serif !important;
+    color: #ffffff !important;
+}
+hr {
+    width: 190vh !important;
+    background-color: #b7b7b7 !important;
+    margin-top: -6vh !important;
+}
+
+#educationHeader2{
+    margin-top: -17vh !important;
+    font-family: Georgia, serif !important;
+    font-weight: 550 !important;
+    font-size: 20px !important;
+    margin-left: 0.2vh !important;
+    color: #ffffff !important;
+
+}
+#workHistoryHeader2{
+    margin-top: -1vh !important;
+    margin-left: 0.2vh !important;
+    text-align: left !important;
+    font-family: Georgia, serif !important;
+    font-style: italic !important;
+    font-size: 20px !important;
+    letter-spacing: 0.8px !important;
+    word-spacing: 2px !important;
+    color: #ffffff !important;
+    font-weight: 550 !important;
+    font-style: normal !important;
+    font-variant: normal !important;
+}
+
+.schoolNameTwo {
+    font-family: Georgia, serif !important;
+    font-size: 3vh !important;
+    margin-left: -3vh !important;
+    margin-top: -4vh !important;
+    font-weight: 200 !important;
+    color: #eeeded !important;
+
+}
+.educationLevelTwo {
+    font-family: Georgia, serif !important;
+    font-size: 3vh !important;
+    margin-left: -3vh !important;
+    margin-top: -2vh !important;
+    font-style: italic !important;
+    margin-bottom: 6vh;
+    color: #e0dfdf !important;
+}
+.workHistoryCompanyTwo{
+    font-family: Georgia, serif !important;
+    font-weight: 360 !important;
+    font-size: 3.3vh !important;
+    color: #ffffff !important;
+    margin-left: -2.5vh !important;
+
+}
+.workHistoryJobTitleTwo{
+    font-family: Georgia, serif !important;
+    font-weight: 300 !important;
+    font-size: 2.7vh !important;
+    margin-top: -2vh;
+    margin-left: -2vh !important;
+    color: #bbbbbb !important;
+}
+.workHistoryStartDateTwo{
+    margin-top: -9.5vh !important;
+    margin-left: 1vh !important;
+    text-align: right !important;
+    font-family: Georgia, serif !important;
+    color: #ffffff !important;
+}
+.workHistoryendDateTwo{
+    margin-top: -2vh !important;
+    margin-left: 1vh !important;
+    text-align: right !important;
+    font-family: Georgia, serif !important;
+    color: #ffffff !important;
+    margin-right: 2.5vh !important;
+}
+.workHistoryJobDescriptionTwo{
+    font-family: Georgia, serif !important;
+    font-weight: 300 !important;
+    font-size: 2.7vh !important;
+    margin-top: 2vh;
+    line-height: 4vh !important;
+    margin-inline-start: 3vh !important;
+    margin-bottom: 4vh !important;
+    color: #e0dfdf !important;
+}
+#skillHeader2{
+    margin-top: -1vh !important;
+    margin-bottom: 0.5vh !important;
+    margin-right: -3vh !important;
+    text-align: left !important;
+    font-family: Georgia, serif !important;
+    font-style: italic !important;
+    font-size: 20px !important;
+    letter-spacing: 0.8px !important;
+    word-spacing: 2px !important;
+    color: #ffffff !important;
+    font-weight: 550 !important;
+    font-style: normal !important;
+    font-variant: normal !important;
+}
+.skillNameTwo{
+    font-family: Georgia, serif !important;
+    font-weight: 300 !important;
+    font-size: 3vh !important;
+    margin-top: -1.5vh !important;
+    color: #e0dfdf !important;
+}

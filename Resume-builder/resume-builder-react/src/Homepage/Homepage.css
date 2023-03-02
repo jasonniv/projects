@@ -1,0 +1,19 @@
+
+
+.createAccount {
+    width: 200px;
+    height: 883px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.homepage { 
+  background: url("https://images.pexels.com/photos/5989925/pexels-photo-5989925.jpeg?cs=srgb&dl=pexels-cottonbro-5989925.jpg&fm=jpg") no-repeat center center fixed;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+} 

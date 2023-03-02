@@ -1,0 +1,32 @@
+.container{
+    margin-top: 70px !important;
+	margin-bottom: -5px !important;
+    padding: 50px !important;
+	
+}
+
+.form-group{
+        background: hsl(0deg 0% 100%);
+		box-shadow: 0 0 2em hsl(231deg 62% 94%);
+		padding: 1em;
+		display: flex;
+		flex-direction: column;
+		gap: 0.5em;
+		border-radius: 20px;
+		color: hsl(0deg 0% 30%);
+		margin-top: -3em;
+		margin-left: 30px !important;
+    
+}
+
+.login { 
+    padding: 15px 25px;
+    cursor: pointer;
+    border-radius: 50px;
+    
+  }
+#loginError{
+	border: 7px hidden #466451 !important;
+}
+
+

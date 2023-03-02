@@ -1,0 +1,9 @@
+.downloadButton{
+    background-color: rgb(82, 119, 97);
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 2rem;
+    margin-top: 15px !important;
+}
